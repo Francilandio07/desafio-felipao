@@ -1,6 +1,6 @@
 # **1 - Desafio Classificador de nível de Herói**
 
-Esse é um desafio feito pelo Felipão da DIO para o bootcamp Desenvolvimento de jogos com Godot do Santander. Segue o descritivo do desafio:
+Esse é um desafio feito lançado Felipão da DIO para o bootcamp Desenvolvimento de jogos com Godot do Santander. Segue o descritivo do desafio:
 
 **O Que deve ser utilizado**
 
